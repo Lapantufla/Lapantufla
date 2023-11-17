@@ -43,14 +43,9 @@
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-
-
-
   
 <div>
   <h3> 📫 &nbsp; Contact me in:</h3>
   <a href="https://www.linkedin.com/in/jeremias-marin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>  
-  <a href="marin.jeremias.g@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?logo=gmail"></a>
+  <a href="mailto:marin.jeremias.g@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?logo=gmail"></a>
 </div>
-
