@@ -15,7 +15,7 @@
 - 💻 &nbsp; Me divierto mucho resolviendo problemas computacionalmente con enfoques matemático.
 - 🤓 &nbsp; Apasionado por la matematica y la algoritmia, "El gran libro de la naturaleza está escrito con símbolos matemáticos".
 
-<h3> 🛠 &nbsp;Habilidades técnicas</h3>
+<h3> 🛠 &nbsp; Tecnologias/Conocimientos</h3>
 
 
   
