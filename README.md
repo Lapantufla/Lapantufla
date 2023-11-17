@@ -47,5 +47,5 @@
 <div>
   <h3> 📫 &nbsp; Contact me in:</h3>
   <a href="https://www.linkedin.com/in/jeremias-marin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:example@example.com">example@example.com</a>
+  <a href="mailto:marin.jeremias.g@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-blue?logo=gmail"/></a>
 </div>
