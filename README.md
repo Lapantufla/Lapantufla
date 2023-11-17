@@ -2,6 +2,8 @@
   <h2>Hola! Soy Jeremias Marin.</h2>  
 </div>
 
+![banner](./banner_dallee (1).png)
+
 
 
 
