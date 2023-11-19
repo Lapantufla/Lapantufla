@@ -28,6 +28,7 @@
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Scipy](https://img.shields.io/badge/-Scipy-333333?style=flat&logo=scipy)
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
   
