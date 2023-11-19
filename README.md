@@ -23,7 +23,7 @@
     ![Static Badge](https://img.shields.io/badge/-NO_SQL-333333??style=flat)
     ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
     
-  - 📚 &nbsp;
+  - 📘 &nbsp;
     ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
     ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
     ![Scipy](https://img.shields.io/badge/-Scipy-333333?style=flat&logo=scipy)
