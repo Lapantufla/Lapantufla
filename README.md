@@ -51,6 +51,7 @@
 <div>
   <h3> 📚 &nbsp; Portfolio:</h3>
   
+  - 📝 &nbsp; [Link Portfolio](https://github.com/Lapantufla/Portfolio/blob/main/README.md)  
   - 📝 &nbsp; [Link Portfolio](https://lapantufla.github.io/Portfolio/)    
 </div>
 
